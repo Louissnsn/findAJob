@@ -1,5 +1,9 @@
 Projet personnel en cours pour s'amuser avec l'API de France Travail afin de lister les jobs disponibles en quelques clics
 
+## Incoming 
+- Accès à une IA afin de générer/modifier/améliorer un CV ou une lettre de motivation directement depuis le site
+- Front responsive et user friendly 
+
 ## Getting Started
 
 Tout d'abord, il faut se créer un compte sur [FranceTravail.io](https://francetravail.io/). Une fois votre client_id et votre client_secret récupérés, générez votre .env. 
